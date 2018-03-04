@@ -1,0 +1,1 @@
+'use strict';saludar=function(a){return console.log('Hola '+a+'!')};saludar('manu');
